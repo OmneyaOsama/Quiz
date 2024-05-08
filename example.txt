@@ -16,6 +16,9 @@ Ans : it could help solving unemployment
 Ans : my workday  was a great and unique as i stuck at coding problem and solve it by myself
 5. What historical figure would make an excellent CEO for our industry?
  
+
+
+ 
 Bonus Creative Task:
 - Draw a simple diagram that represents "git workflow", take a picture or make it digitally, and include it in the bonus question section.
 
